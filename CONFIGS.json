@@ -1,0 +1,36 @@
+{
+    "messages": {
+        "en": {
+            "info_bt": "Click the button to copy files and directories",
+            "select_source": "Select files",
+            "select_source_not_select": "No file selected",
+            "select_source_folder": "Select folders",
+            "select_source_folder_not_select": "No folder selected",
+            "clear_files": "Clear files",
+            "clear_folders": "Clear folders",
+            "select_dest": "Select destination",
+            "start_copy": "Start copy",
+            "total_progress": "Total progress",
+            "current_file": "Current file",
+            "eta": "ETA",
+            "language": "Language",
+            "switch_lang": "PT"
+        },
+        "pt": {
+            "info_bt": "Clique no botão para copiar arquivos e diretórios",
+            "select_source": "Selecionar arquivos",
+            "select_source_not_select": "Nenhum arquivo selecionado",
+            "select_source_folder": "Selecionar pastas",
+            "select_source_folder_not_select": "Nenhuma pasta selecionada",
+            "clear_files": "Limpar arquivos",
+            "clear_folders": "Limpar pastas",
+            "select_dest": "Selecionar destino",
+            "start_copy": "Iniciar cópia",
+            "total_progress": "Progresso total",
+            "current_file": "Arquivo atual",
+            "eta": "Tempo restante",
+            "language": "Idioma",
+            "switch_lang": "EN"
+        }
+    }
+}

@@ -39,7 +39,7 @@ A Python-based GUI tool that allows users to copy specific files and matching di
    - You can download this project from GitHub by clicking on the **Code** button and selecting **Download ZIP**.
    - Alternatively, if you are familiar with Git, you can clone the repository:
      ```bash
-     git clone https://github.com/yourusername/copy-files-gui.git
+     git clone  {{ site.github.repository_name }}
      cd copy-files-gui
      ```
 
